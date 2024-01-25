@@ -1,0 +1,12 @@
+﻿[
+    {
+        "outputFile": "wwwroot/css/wg-style.css",
+        "inputFile": "Sass/wg-style.scss",
+        "minify": {
+            "enabled": true
+        },
+        "options": {
+            "sourceMap": true
+        }
+    }
+]
